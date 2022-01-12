@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body {
+    background-color: #f1f1f1;
+    color: #0d121d;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    font: normal 16px 'Roboto', sans-serif;
+    background: linear-gradient(-45deg, rgb(172, 78, 78), rgb(113, 64, 202));
+}
+
+.avatar {
+    width: 300px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px rgba(168, 24, 24, 0.568);    
+    margin-right: 50px;
+}
+
+.info p {
+    color: #000000;
+    font-weight: bold;
+    display: flex;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.info-text {
+    display: flex;
+}
+
+.card3 {
+    margin-left: 357px;
+    margin-top: 50px;
+}
+
+.card4 {
+    margin-left: 357px;
+    margin-top: 50px;
+
+}
+
+.container {
+    max-width: 750px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
